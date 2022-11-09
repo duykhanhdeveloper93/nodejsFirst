@@ -1,0 +1,27 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Project web dau tien toi lam bang nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duykhanhdeveloper93/nodejsFirst.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duykhanhdeveloper93/nodejsFirst/issues"
+  },
+  "homepage": "https://github.com/duykhanhdeveloper93/nodejsFirst#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
